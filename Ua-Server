@@ -1,7 +1,29 @@
-[FBAN/Orca-Android;FBAV/130.0.0.15.89;FBPN/com.facebook.orca;FBLC/sv_SE;FBBV/67467545;FBCR/S COMVIQ;FBMF/samsung;FBBD/samsung;FBDV/GT-I9505;FBSV/5.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
-[FBAN/Orca-Android;FBAV/359.0.0.35.120;FBBV/552727041;FBRV/0;FBPN/com.facebook.orca;FBLC/en_US;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBDV/TECNO KE5;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/Orca-Android;FBAV/248.0.0.7.127;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/194293860;FBCR/PLAY;FBMF/LGE;FBBD/lge;FBDV/LG-M250;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1193};FB_FW/1;]
-[FBAN/FB4A;FBAV/323.0.0.46.119;FBBV/298672707;FBDM/{density=2.75,width=1080,height=2168};FBLC/ru_RU;FBRV/299927973;FBCR/MTS RUS;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 9 Pro;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/335.0.0.28.118;FBPN/com.facebook.katana;FBLC/ru_RU;FBBV/316527966;FBCR/Bezlimit;FBMF/Xiaomi;FBBD/Redmi;FBDV/Redmi Note 8 Pro;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.75,width=1080,height=2220};FB_FW/1;FBRV/317757053;]
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957690;FBDM/{density=3.0,width=1080,height=1800};FBLC/en_US;FBRV/334698665;FBCR/3 Macau;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/BAC-L22;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950338;FBDM/{density=3.0,width=1080,height=2107};FBLC/ru_RU;FBRV/337672225;FBCR/Beeline;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/MAR-LX1M;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+Dalvik/2.1.0 (Linux; U; Android 11.6.3; TA-1085 Build/PD2A.221213.046) [FBAN/FB4A;FBAV/155.0.0.33.96;FBBV/87700019;FBDM/{density=2.8,width=431,height=1371};FBLC/de_DE;FBRV/87855112;FB_FW/2;FBCR/Fyve;FBMF/Nokia;FBBD/nokia;FBPN/com.facebook.katana;FBDV/TA-1085;FBSV/11.6.3;FBOP/19;FBCA/arm64-v8a:armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 12.5.1; X650 Build/TP1A.240506.042) [FBAN/FB4A;FBAV/341.0.0.30.73;FBPN/com.facebook.katana;FBLC/en_CA;FBBV/308212462;FBCR/Eastlink Mobile;FBMF/Infinix;FBBD/infinix;FBDV/X650;FBSV/12.5.1;FBCA/x86_64:x86:arm64-v8a;FBDM/{density=1.25,width=695,height=2100};FB_FW/1;FBRV/308553508;]
+
+Dalvik/2.1.0 (Linux; U; Android 11.9.4; W-Y20 Build/SP2A.080818.036) [FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888155;FBDM/{density=2.125,width=1282,height=1145};FBLC/en_CA;FBRV/247177251;FB_FW/2;FBCR/Videotron;FBMF/Wiko;FBBD/wiko;FBPN/com.facebook.katana;FBDV/W-Y20;FBSV/11.9.4;FBOP/19;FBCA/x86_64:arm64-v8a:armeabi-v7a;]
+
+Dalvik/2.1.0 (Linux; U; Android 6.9.1; ZS671KL Build/OPR6.110926.033) [FBAN/FB4A;FBAV/115.0.0.20.72;FBPN/com.facebook.katana;FBLC/de_DE;FBBV/52431700;FBCR/Ja! Mobil;FBMF/Asus;FBBD/asus;FBDV/ZS671KL;FBSV/6.9.1;FBCA/arm64-v8a:;FBDM/{density=3.5,width=839,height=1097};FB_FW/1;FBRV/52546750;]
+
+Dalvik/2.1.0 (Linux; U; Android 13.8.0; SM-J200F Build/SQ3A.141003.050) [FBAN/FB4A;FBAV/370.0.0.23.112;FBPN/com.facebook.katana;FBLC/fr_CA;FBBV/314014367;FBCR/Bell Mobilité;FBMF/Samsung;FBBD/samsung;FBDV/SM-J200F;FBSV/13.8.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1317,height=1536};FB_FW/1;FBRV/314384401;]
+
+Dalvik/2.1.0 (Linux; U; Android 13.8.5; LMQ630EAW Build/TD2A.141116.062) [FBAN/FB4A;FBAV/445.0.0.34.118;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/448014984;FBCR/Spectra Mobile;FBMF/LG;FBBD/lg;FBDV/LMQ630EAW;FBSV/13.8.5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.8,width=1317,height=1997};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 7.9.2; RMX3193 Build/OPM8.071009.043) [FBAN/FB4A;FBAV/124.0.0.22.66;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/58350869;FBCR/MyPlan;FBMF/Realme;FBBD/realme;FBDV/RMX3193;FBSV/7.9.2;FBCA/arm64-v8a:;FBDM/{density=1.875,width=890,height=1705};]
+
+Dalvik/2.1.0 (Linux; U; Android 15.8.4; E5506 Build/RP1A.121101.030) [FBAN/FB4A;FBAV/420.0.0.32.61;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/443010639;FBCR/Horizon Mobile;FBMF/Sony;FBBD/sony;FBDV/E5506;FBSV/15.8.4;FBCA/x86:arm64-v8a:armeabi-v7a;FBDM/{density=3.8,width=1333,height=1933};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 7.9.1; RMX3744 Build/RD2A.240902.023) [FBAN/FB4A;FBAV/30.0.0.0.7;FBPN/com.facebook.katana;FBLC/fr_CA;FBBV/7584955;FBCR/SimplyConnect;FBMF/Realme;FBBD/realme;FBDV/RMX3744;FBSV/7.9.1;FBCA/arm64-v8a:null;FBDM/{density=2.75,width=918,height=757};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 12.7.2; XT2251-1 Build/OPR6.221101.004) [FBAN/FB4A;FBAV/410.0.0.26.115;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/441017073;FBCR/Tangerine Telecom;FBMF/Motorola;FBBD/motorola;FBDV/XT2251-1;FBSV/12.7.2;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.278,width=680,height=1220};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 5.5.1; CPH2600 Build/OPM8.071224.060) [FBAN/FB4A;FBAV/29.0.0.0.5;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/7108191;FBCR/Telstra;FBMF/OPPO;FBBD/oppo;FBDV/CPH2600;FBSV/5.5.1;FBCA/x86_64:x86:armeabi-v7a;FBDM/{density=1.278,width=1157,height=1359};]
+
+Dalvik/2.1.0 (Linux; U; Android 6.7.1; G013C Build/TD4A.180221.070) [FBAN/FB4A;FBAV/29.0.0.0.7;FBBV/7190062;FBDM/{density=1.5,width=945,height=1267};FBLC/de_DE;FBCR/Vodafone GigaCube;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/G013C;FBSV/6.7.1;FBCA/x86_64:arm64-v8a:armeabi-v7a;]
+
+Dalvik/2.1.0 (Linux; U; Android 5.9.0; A150 Build/RD2A.071103.068) [FBAN/FB4A;FBAV/50.0.0.10.54;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/16053535;FBCR/Southern Phone;FBMF/Lava;FBBD/lava;FBDV/A150;FBSV/5.9.0;FBCA/arm64-v8a:null;FBDM/{density=3.8,width=702,height=2186};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 5.9.2; RMX3589 Build/QQ3A.220912.039) [FBAN/FB4A;FBAV/50.0.0.10.54;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/16053535;FBCR/ALDImobile;FBMF/Realme;FBBD/realme;FBDV/RMX3589;FBSV/5.9.2;FBCA/x86_64:x86:arm64-v8a;FBDM/{density=1.625,width=543,height=739};FB_FW/1;FBRV/16103543;]
+
+Dalvik/2.1.0 (Linux; U; Android 5.8.2; A190 Build/RP1A.131013.056) [FBAN/FB4A;FBAV/57.0.0.18.136;FBPN/com.facebook.katana;FBLC/en_CA;FBBV/18629582;FBCR/GoSmart Mobile;FBMF/Lava;FBBD/lava;FBDV/A190;FBSV/5.8.2;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.0,width=923,height=2162};FB_FW/1;]
